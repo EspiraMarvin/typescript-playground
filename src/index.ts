@@ -16,7 +16,7 @@
 */ 
 
 
-//ARRAYS
+// ARRAYS
 let numbers = [1,2,3,4]
 
 // TUPLES - holds data with 2 different data types
